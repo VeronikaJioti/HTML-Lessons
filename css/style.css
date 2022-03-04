@@ -1,0 +1,215 @@
+/* Basic classes */
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  /* font-family: 'Roboto', sans-serif;
+  font-weight: 800; */
+}
+
+.inl-block {
+  display: inline-block;
+}
+
+/* Navbar */
+.navbar {
+  color: #4d4dff;
+  font-family: "BPG Nino Mtavruli Bold", sans-serif;
+  font-size: 18px;
+  }
+
+ .logo {
+  width: 50px;
+  }
+
+.logo img{
+  vertical-align: middle;
+  margin: 0 15px;
+}
+
+.menu {
+  margin-left: 60px
+}
+
+.menu a{
+  color: #4d4dff;
+}
+
+.menu ul li{
+  display: inline-block;
+  vertical-align: middle;
+  margin: 15px;
+}
+
+.primary a{
+  color: #ff8c66;
+}
+
+.menu a:hover{
+  color: #ff8c66;
+}
+
+/* Sections */
+
+#image {
+  margin: 0px 30px;
+  text-align: center;
+}
+
+#image img{
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+
+.header {
+color: rgb(88, 87, 87);
+margin: 30px;
+}
+
+.header a{
+  color: rgb(88, 87, 87);
+}
+
+/* box1 */
+
+.box1 {
+  background-color: #f2f2f2;
+  width: 470px;
+  margin-left: 30px;
+  margin-right: 15px;
+  padding: 15px;
+}
+
+.box1 h3 {
+  color: #5050a1;
+  margin-bottom: 10px;
+}
+.box1 img{
+  width: 15%;
+  vertical-align: top;
+}
+
+.box1 p{
+ width: 355px;
+ margin-left: 10px;
+ vertical-align: top;
+} 
+
+/* box2 */
+.box2 {
+  background-color: #f2f2f2;
+  width: 470px;
+  padding: 15px;
+}
+
+.box2 h3 {
+  color: #5050a1;
+  margin-bottom: 10px;
+}
+.box2 img{
+  width: 10%;
+  vertical-align: top;
+}
+
+.box2 p{
+ width: 355px;
+ margin-left: 15px;
+ vertical-align: top;
+} 
+
+/* News */
+
+.calendar {
+  background-color: #3b5998;
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.calendar p{
+  color: #f2f2f2;
+  font-size: 20px;
+  text-align: center;
+}
+
+.date {
+color: #3b5998;
+font-size: 20px;
+margin-left: 30px;
+}
+
+.article {
+  margin-left: 30px;
+}
+
+.article img{
+  width: 200px;
+  /* margin-right: 10px; */
+  vertical-align: top;
+}
+
+.article1 {
+  width: 700px;
+  vertical-align: top;
+  margin-left: 10px;
+}
+.article1 p{
+  width: 650px;
+  margin: 0 0 20px 0;
+  vertical-align: top;
+}
+
+/* Contact */
+
+.contact {
+  font-family: "BPG Nino Mtavruli Bold", sans-serif;
+  vertical-align: top;
+  margin-right: 30px;
+  margin-top: 60px;
+}
+
+.contact h2{
+  color: #3b5998;
+  margin: 10px 10px 10px 30px;
+}
+
+.contact ul li{
+  color: rgb(88, 87, 87);
+  font-weight: 600;
+  margin-left: 30px;
+  list-style: none;
+  line-height: 1.2em;
+}
+
+.contact ul li a{
+  color: #3b5998;
+  font-style: oblique;
+  font-weight: 200;
+  margin: 10px;
+}
+
+.map iframe{
+  width: 450px;
+  height: 300px;
+  margin-top: 60px;
+}
+
+/* Footer */
+
+.footer {
+  display: inline-block;
+  margin-top: 130px;
+}
+
+.divider {
+  width: 2px;
+  height: 27px;
+  background-color: #3b5998;
+  margin: 0 15px;
+}
+
+.footer1 {
+  width: 30px;
+}
