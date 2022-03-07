@@ -33,6 +33,12 @@ body {
   color: #4d4dff;
 }
 
+.btn {
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
 .menu ul li{
   display: inline-block;
   vertical-align: middle;
